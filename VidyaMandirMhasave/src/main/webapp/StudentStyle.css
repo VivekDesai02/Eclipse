@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+.Studtable a{
+	padding: 5px;
+	text-decoration: none;
+	margin: 10px 10px 5px 5px;
+	color: black;
+	border: 5px brown;
+	border-style: inset;
+	background-color: orangered;
+	border-radius: 10px;
+	float: left;
+	
+	
+}
+
+.Studtable table{
+	margin: 0px 0px 25px 0px;
+	padding: 2px;
+	background-color: silver;
+	width: 600px;
+	text-align: center;
+}
+
+.Studtable a:hover{
+	color: white;
+	background-color: red;
+}
+
+.all{
+	
+	margin: 0px 20px 5px 5px;
+	float: right;
+}
+.all a{
+	text-decoration: none;
+	color: black;
+	border: 2px solid black;
+	padding: 3px;
+	background-color: tomato;
+	border-radius: 10px;
+	
+}
+

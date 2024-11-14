@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+body{
+	background-color: slategray;
+}
+
+#updateform{
+	border: 2px solid black;
+	width: 700px;
+	margin: auto;
+	margin-top: 100px;
+	text-align: center;
+	padding: 10px;
+	background:linear-gradient(45deg,black , gray) ;
+	color: white;
+	border-radius: 80px;
+	box-shadow: 5px 5px 5px black;
+}
+
+#updateform label{
+	padding: 5px;
+	font-size: 20px;
+}
+
+#updateform h2{
+	font-size: 40px;
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	color: brown;
+	text-shadow: 2px 3px 4px black;
+	margin-top: 10px;
+}
+
+#updateform .in{
+	background: transparent;
+	font-size: 20px;
+	color:ghostwhite;
+	width: 250px;
+	text-align: center;
+	padding: 2px;
+	margin: 0px 0px 0px 10px;
+}
+
+.upbutten{
+	width: 200px;
+	border: 2px solid black;
+	text-decoration: none;
+	color: black;
+	background-color: brown;
+	font-size: 20px;
+	padding: 2px 20px 2px 20px;
+	border-radius: 10px;
+	margin:2px 2px 2px 30px;
+    font-weight: bold;
+}
+
+#sub{
+	width: 100px;
+	border: 2px solid black;
+	color: black;
+	background-color: brown;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 10px;
+	margin: 2px 30px 2px 2px;
+	padding: 2px;
+}
+

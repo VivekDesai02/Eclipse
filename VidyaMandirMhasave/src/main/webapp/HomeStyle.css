@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+h1{	
+	color: white;
+}
+
+#NavHeader{
+    float: left;
+    font-size: 25px;
+    padding: 5px 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: aliceblue;
+    text-shadow: 6px 6px 6px black;
+}
+#contant{
+    /* border: 10px inset saddlebrown; */
+    border: 10px inset brown;
+    width: auto;
+    height: auto;
+    margin: 20px 5px;
+    box-shadow: 5px 8px 5px black;
+    display: inline-block;
+    
+}
+
+ul{
+background:linear-gradient(45deg,black , gray);
+margin: 0;
+padding: 0;
+list-style-type: none;
+overflow: hidden;
+position: fixed;
+top: 0;
+
+width: 100%;
+left: 0;
+right: 0;
+}
+ul li{
+float: right;
+padding: 0px 30px 0px 0px ;
+}
+ul li a{
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover{
+    color: black;
+    background-color: aliceblue;
+}
+li i{
+    padding: 0px 10px 0px 0px ;
+}
+
+
+p{
+	border: 2px solid pink;
+	height: 200px;
+	width: 20px;
+	margin-top: 20px;
+}
+
+.left{
+	background-color: pink;
+	height: 200px;
+	width: 200px;
+	margin-top: 47px;
+	left: 0;
+	padding: 10px;
+	
+}
+
+.left ol li{
+	
+}
+
+.List{
+	color: black;
+	margin: 5px;
+	padding: 5px;
+	size: 50px;
+	border: brown solid 2px;
+	background-color: blanchedalmond;
+	text-decoration: none;
+	font-size: 18px;
+	text-align: center;
+		
+}
+
+.m{
+	height: 1000px;
+	width: 20px;
+	border: 2px solid black;
+}
+
